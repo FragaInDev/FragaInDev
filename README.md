@@ -1,4 +1,9 @@
 ## Eae! Bruno aqui⚡
+<div>
+  <img alt="Bru-Bannerr" style="border-radius:50px;" src="https://media.giphy.com/media/mYdOLUFQVzqzdoxqq4/giphy.gif">
+</div>
+
+##
 
 🎓 Estudando Java e JavaScript <br>
 🧠 “Never say never, because limits, like fears, are often just an illusion.” - Michael Jordan
