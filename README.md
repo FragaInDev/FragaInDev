@@ -10,7 +10,7 @@
 </div>
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="Bru-Figma" height="40" width="40" src="https://cdn.discordapp.com/attachments/948685400606658644/948685465203138580/figma_macos_bigsur_icon_190183_1.png">
+  <img align="center" alt="Bru-Figma" height="40" width="40" src="https://cdn.discordapp.com/attachments/948685400606658644/948712095422218260/figmaicon.png">
   <img align="center" alt="Bru-HTML" height="40" width="40" src="https://cdn.discordapp.com/attachments/948685400606658644/948709589115863150/html.png">
   <img align="center" alt="Bru-CSS" height="40" width="40" src="https://cdn.discordapp.com/attachments/948685400606658644/948708967218049084/css.png">
   <img align="center" alt="Bru-JS" height="40" width="40" src="https://cdn.discordapp.com/attachments/948685400606658644/948710046148198450/js.png">
