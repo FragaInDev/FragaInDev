@@ -10,11 +10,11 @@
 </div>
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="Bru-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
-  <img align="center" alt="Bru-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
-  <img align="center" alt="Bru-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg">
-  <img align="center" alt="Bru-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Bru-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg">
+  <img align="center" alt="Bru-Figma" height="40" width="40" src="https://cdn.discordapp.com/attachments/948685400606658644/948685465203138580/figma_macos_bigsur_icon_190183_1.png">
+  <img align="center" alt="Bru-HTML" height="40" width="40" src="https://cdn.discordapp.com/attachments/948685400606658644/948709589115863150/html.png">
+  <img align="center" alt="Bru-CSS" height="40" width="40" src="https://cdn.discordapp.com/attachments/948685400606658644/948708967218049084/css.png">
+  <img align="center" alt="Bru-JS" height="40" width="40" src="https://cdn.discordapp.com/attachments/948685400606658644/948710046148198450/js.png">
+  <img align="center" alt="Bru-Java" height="40" width="40" src="https://cdn.discordapp.com/attachments/948685400606658644/948708326697496576/java_3.png">
   <img align="right" alt="Bru-Spider" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/1r8YvFB47nAsAy36mp/giphy.gif">
 </div>
   
