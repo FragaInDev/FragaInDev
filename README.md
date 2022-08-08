@@ -1,17 +1,19 @@
-## Eae! Bruno aqui⚡
+## Hi! Welcome to my GitHub profile.⚡
+
 <div>
-  <img alt="Bru-Bannerr" style="border-radius:50px;" src="https://media.giphy.com/media/mYdOLUFQVzqzdoxqq4/giphy.gif">
+  <img alt="Bru-Bannerr" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/948685400606658644/1006283466863804477/header-github.jpg">
 </div>
-
-##
-
-🎓 Estudando Java e JavaScript <br>
+<br>
+🎓 Front End delelopment student! <br>
 🧠 “Never say never, because limits, like fears, are often just an illusion.” - Michael Jordan
+<br>
 
 <div align="center">
+<br>
+<br>
   <a href="https://github.com/FragaInDev">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=FragaInDev&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FragaInDev&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=FragaInDev&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FragaInDev&layout=compact&langs_count=7&theme=onedark"/>
 </div>
   
 <div style="display: inline_block"><br>
