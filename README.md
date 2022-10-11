@@ -4,7 +4,7 @@
   <img alt="Bru-Bannerr" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/948685400606658644/1006283466863804477/header-github.jpg">
 </div>
 <br>
-🎓 Front End development student! <br>
+🎓 FrontEnd development student | Java student!  <br>
 🧠 “Never say never, because limits, like fears, are often just an illusion.” - Michael Jordan
 <br>
 
